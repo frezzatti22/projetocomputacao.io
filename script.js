@@ -6,41 +6,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual a principal origem de jiu-jitsu?",
+        enunciado: "1) Qual a principal origem de jiu-jitsu?",
         alternativas: [
             {
                 texto: "Indiana",
-                afirmacao: "O jiu-jítsu teve origem cerca de três mil anos antes de Cristo, provavelmente na Índia, onde era praticado por monges budistas. "
+                afirmacao: "1) O jiu-jítsu teve origem cerca de três mil anos antes de Cristo, provavelmente na Índia, onde era praticado por monges budistas. "
             },
             {
                 texto: "Russa",
-                afirmacao: "O jiu-jítsu teve origem cerca de três mil anos antes de Cristo, provavelmente na Índia, onde era praticado por monges budistas. "
+                afirmacao: "1)O jiu-jítsu teve origem cerca de três mil anos antes de Cristo, provavelmente na Índia, onde era praticado por monges budistas. "
             }
         ]
     },
     {
-        enunciado: "Quais são os três pilares do jiu jitsu ",
+        enunciado: "2) Quais são os três pilares do jiu jitsu ",
         alternativas: [
             {
                 texto: "defender,controlar e atacar",
-                afirmacao: "correto."
+                afirmacao: "2) correto."
             },
             {
                 texto: "desistencia,arrogancia e deshonra",
-                afirmacao: "errado."
+                afirmacao: "2) errado."
             }
         ]
     },
     {
-        enunciado: "Qual a faixa que um aluno faixa azul recebe após 3 anos de treino?",
+        enunciado: "3) Qual a faixa que um aluno faixa azul recebe após 3 anos de treino?",
         alternativas: [
             {
                 texto: "roxa",
-                afirmacao: "correto."
+                afirmacao: "3) correto."
             },
             {
                 texto: "verde",
-                afirmacao: "errado."
+                afirmacao: "3) errado."
             }
         ]
     },
